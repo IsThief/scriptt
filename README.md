@@ -1,2 +1,0 @@
-# scriptt
-test
